@@ -1,6 +1,9 @@
 # TelloCreator
 TelloCreator is a fast and simple tool to create Tellonym accounts and make them follow a target account. It features a clean UI, proxy support, and optimized performance.
 
+
+![TelloCreator UI](screenshot.png)
+
 ## Features
 - Create multiple Tellonym accounts quickly.
 - Use accounts to follow a target Tellonym username.
