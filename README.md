@@ -2,7 +2,7 @@
 
 TelloCreator is a fast and simple tool to create Tellonym accounts, make them follow a target account, and send tells. It features a clean UI, proxy support, optimized performance, and a seamless flow for sending anonymous messages.
 
-![TelloCreator Logo](screenshot.png)
+  ![TelloCreator Logo](screenshot.png)
 
 ## Features
 
